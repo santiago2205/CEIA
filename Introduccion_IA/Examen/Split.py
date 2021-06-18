@@ -5,7 +5,7 @@ class Split:
         idx = np.random.permutation(x.shape[0])
         x = x[idx]
         y = y[idx]
-        a = round(x.shape[0] * training_percentage)
+        a = int(x.shape[0] * training_percentage)
 
         if validation_percentage is None:
             tx = x[:a]
