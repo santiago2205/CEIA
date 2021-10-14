@@ -30,3 +30,10 @@ In this challenge, we learn the concept of a **Long-Short Term Memory (LSTM)** a
 [Link to Colab](https://github.com/santiago2205/CEIA/blob/master/Natural_Language_Processing/5d%20-%20clothing_ecommerce_reviews.ipynb)
 
 ## Challenge N°6: Q&A bot using Seq2Seq
+In this challenge, we build a **conversational bot** with **encoder-decoder seq2seq** architecture. The user can ask some questions and the bot will answer.
+
+[Link to Colab](https://github.com/santiago2205/CEIA/blob/master/Natural_Language_Processing/6d%20-%20bot_qa.ipynb)
+
+---
+
+#### These are all the challenges and I hope you have understood them all.
